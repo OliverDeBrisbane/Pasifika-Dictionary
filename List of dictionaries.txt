@@ -1,12 +1,15 @@
 Currently, the following dictionaries have been created
 * Aymara to Māori
+* English to Fijian
 * English to Hawaiian
 * English to Māori
 * English to Nauruan
 * English to Tok Pisin
 * English to Tetum
 * Esperanto to Tok Pisin
+* Fiji Hindi to Fijian
 * Finnish to Tetum
+* French to Fijian
 * French to Tok Pisin
 * German to Tetum
 * Hawaiian to Tahitian
@@ -23,6 +26,7 @@ Currently, the following dictionaries have been created
 * Okinawan to Hawaiian
 * Polish to Tetum
 * Polish to Tok Pisin
+* Portuguese to Fijian
 * Portuguese to Hawaiian
 * Portuguese to Tetum
 * Quechua to Māori
@@ -34,6 +38,7 @@ Currently, the following dictionaries have been created
 * Swahili to Māori
 * Swedish to Māori
 * Tahitian to Hawaiian
+* Turkish to Fijian
 
 Coming soon:
 * English to Tahitian
