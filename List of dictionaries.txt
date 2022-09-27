@@ -3,7 +3,11 @@ Currently, the following dictionaries have been created
 * English to Hawaiian
 * English to Māori
 * English to Nauruan
+* Esperanto to Tok Pisin
+* French to Tok Pisin
+* English to Tok Pisin
 * Hawaiian to Tahitian
+* Hawaiian to Tok Pisin
 * Hindi to Māori
 * Indonesian to Māori
 * Italian to Hawaiian
@@ -13,6 +17,7 @@ Currently, the following dictionaries have been created
 * Korean to Tok Pisin
 * Kurdish to Māori
 * Okinawan to Hawaiian
+* Polish to Tok Pisin
 * Portuguese to Hawaiian
 * Quechua to Māori
 * Rapa Nui to Hawaiian
@@ -26,3 +31,4 @@ Coming soon:
 * Greenlandic to Yolŋu
 * Hawaiian to Rapa Nui
 * More Māori dictionaries
+* Tok Pisin to Hawaiian
