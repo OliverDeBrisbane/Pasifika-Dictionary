@@ -1,0 +1,25 @@
+Currently, the following dictionaries have been created
+* Aymara to Māori
+* English to Hawaiian
+* English to Māori
+* Hawaiian to Tahitian
+* Hindi to Māori
+* Indonesian to Māori
+* Italian to Hawaiian
+* Italian to Māori
+* Japanese to Hawaiian
+* Japanese to Māori
+* Kurdish to Māori
+* Okinawan to Hawaiian
+* Portuguese to Hawaiian
+* Quechua to Māori
+* Rapa Nui to Hawaiian
+* Samoan to Māori
+* Swahili to Māori
+* Swedish to Māori
+* Tahitian to Hawaiian
+
+Coming soon:
+* Greenlandic to Yolŋu
+* Hawaiian to Rapa Nui
+* More Māori dictionaries
