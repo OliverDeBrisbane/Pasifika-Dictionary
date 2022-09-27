@@ -6,6 +6,7 @@ Currently, the following dictionaries have been created
 * English to Tok Pisin
 * English to Tetum
 * Esperanto to Tok Pisin
+* Finnish to Tetum
 * French to Tok Pisin
 * German to Tetum
 * Hawaiian to Tahitian
