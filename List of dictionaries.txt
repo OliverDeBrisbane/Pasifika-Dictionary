@@ -16,6 +16,7 @@ Currently, the following dictionaries have been created
 * Japanese to Māori
 * Korean to Tok Pisin
 * Kurdish to Māori
+* Occitan to Tahitian
 * Okinawan to Hawaiian
 * Polish to Tok Pisin
 * Portuguese to Hawaiian
@@ -28,6 +29,8 @@ Currently, the following dictionaries have been created
 * Tahitian to Hawaiian
 
 Coming soon:
+* English to Tahitian
+* French to Tahitian
 * Greenlandic to Yolŋu
 * Hawaiian to Rapa Nui
 * More Māori dictionaries
