@@ -3,9 +3,11 @@ Currently, the following dictionaries have been created
 * English to Hawaiian
 * English to Māori
 * English to Nauruan
+* English to Tok Pisin
+* English to Tetum
 * Esperanto to Tok Pisin
 * French to Tok Pisin
-* English to Tok Pisin
+* German to Tetum
 * Hawaiian to Tahitian
 * Hawaiian to Tok Pisin
 * Hindi to Māori
@@ -18,10 +20,14 @@ Currently, the following dictionaries have been created
 * Kurdish to Māori
 * Occitan to Tahitian
 * Okinawan to Hawaiian
+* Polish to Tetum
 * Polish to Tok Pisin
 * Portuguese to Hawaiian
+* Portuguese to Tetum
 * Quechua to Māori
 * Rapa Nui to Hawaiian
+* Russian to Nauruan
+* Russian to Tetum
 * Samoan to Māori
 * Spanish to Nauruan
 * Swahili to Māori
