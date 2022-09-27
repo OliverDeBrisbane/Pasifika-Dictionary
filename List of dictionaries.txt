@@ -24,6 +24,7 @@ Currently, the following dictionaries have been created
 * Kurdish to Māori
 * Occitan to Tahitian
 * Okinawan to Hawaiian
+* Polish to Fijian
 * Polish to Tetum
 * Polish to Tok Pisin
 * Portuguese to Fijian
