@@ -1,68 +1,85 @@
 Currently, the following dictionaries have been created:
-* Arabic to Māori
-* Aymara to Māori
-* Bengali to Māori
-* English to Fijian
-* English to Hawaiian
-* English to Māori
-* English to Nauruan
-* English to Tok Pisin
-* English to Tetum
-* Esperanto to Tok Pisin
-* Fiji Hindi to Fijian
-* Finnish to Māori
-* Finnish to Tetum
-* French to Fijian
-* French to Māori
-* French to Tok Pisin
-* German to Māori
-* German to Tetum
-* Hawaiian to Tahitian
-* Hawaiian to Tok Pisin
-* Hindi to Māori
-* Indonesian to Māori
-* Italian to Hawaiian
-* Italian to Māori
-* Japanese to Hawaiian
-* Japanese to Māori
-* Korean to Māori
-* Korean to Tok Pisin
-* Kurdish to Māori
-* Lithuanian to Māori
-* Malagasy to Māori
-* Malay to Māori
-* Occitan to Tahitian
-* Okinawan to Hawaiian
-* Pashto to Māori
-* Polish to Fijian
-* Polish to Māori
-* Polish to Tetum
-* Polish to Tok Pisin
-* Portuguese to Fijian
-* Portuguese to Hawaiian
-* Portuguese to Māori
-* Portuguese to Tetum
-* Quechua to Māori
-* Rapa Nui to Hawaiian
-* Rapa Nui to Māori
-* Russian to Nauruan
-* Russian to Tetum
-* Samoan to Māori
-* Spanish to Māori
-* Spanish to Nauruan
-* Swahili to Māori
-* Swedish to Māori
-* Tahitian to Hawaiian
-* Turkish to Fijian
-* Turkish to Māori
-* Urdu to Māori
-* Vietnamese to Māori
-* Welsh to Māori
 
-Coming soon:
+==Fijian==
+* English
+* French
+* Fiji Hindi
+* Polish
+* Portuguese
+* Turkish
+
+==Hawaiian==
+* English
+* Italian
+* Japanese
+* Okinawan
+* Portuguese
+* Rapa Nui
+* Tahitian
+
+==Māori==
+* Arabic
+* Aymara
+* Bengali
+* English
+* Finnish
+* French
+* German
+* Hindi
+* Indonesian
+* Italian
+* Japanese
+* Korean
+* Kurdish
+* Lithuanian
+* Malagasy
+* Malay
+* Pashto
+* Persian
+* Polish
+* Portuguese
+* Quechua
+* Rapa Nui
+* Samoan
+* Spanish
+* Swedish
+* Turkish
+* Urdu
+* Vietnamese
+* Welsh
+
+==Nauruan==
+* English
+* Russian
+* Spanish
+
+==Rapa Nui==
+* Hawaiian
+
+==Tahitian==
+* Hawaiian
+* Occitan
+
+==Tetum==
+* English
+* Finnish
+* German
+* Polish
+* Portuguese
+* Russian
+
+==Tok Pisin==
+* English
+* Esperanto
+* French
+* Hawaiian
+* Korean
+* Polish
+
+==Coming soon==
 * English to Tahitian
 * French to Tahitian
 * Greenlandic to Yolŋu
 * Hawaiian to Rapa Nui
-* Māori to Māori
+* Māori to Rapa Nui
 * Tok Pisin to Hawaiian
