@@ -1,6 +1,6 @@
 Currently, the following dictionaries have been created:
 
-[[Fijian]]
+## Fijian ##
 * English
 * French
 * Fiji Hindi
