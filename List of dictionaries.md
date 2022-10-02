@@ -8,7 +8,7 @@ Currently, the following dictionaries have been created:
 * Portuguese
 * Turkish
 
-==Hawaiian==
+## Hawaiian ##
 * English
 * Italian
 * Japanese
@@ -17,7 +17,7 @@ Currently, the following dictionaries have been created:
 * Rapa Nui
 * Tahitian
 
-==Māori==
+## Māori ##
 * Arabic
 * Aymara
 * Bengali
@@ -48,19 +48,19 @@ Currently, the following dictionaries have been created:
 * Vietnamese
 * Welsh
 
-==Nauruan==
+## Nauruan ##
 * English
 * Russian
 * Spanish
 
-==Rapa Nui==
+## Rapa Nui ##
 * Hawaiian
 
-==Tahitian==
+## Tahitian ##
 * Hawaiian
 * Occitan
 
-==Tetum==
+## Tetum ##
 * English
 * Finnish
 * German
@@ -68,7 +68,7 @@ Currently, the following dictionaries have been created:
 * Portuguese
 * Russian
 
-==Tok Pisin==
+## Tok Pisin ##
 * English
 * Esperanto
 * French
@@ -76,7 +76,7 @@ Currently, the following dictionaries have been created:
 * Korean
 * Polish
 
-==Coming soon==
+## Coming soon ##
 * English to Tahitian
 * French to Tahitian
 * Greenlandic to Yolŋu
