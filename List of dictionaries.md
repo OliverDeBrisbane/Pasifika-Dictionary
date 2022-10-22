@@ -1,81 +1,81 @@
 Currently, the following dictionaries have been created:
 
-## Fijian ##
-* Czech
-* English
-* French
-* Fiji Hindi
-* Polish
-* Portuguese
-* Turkish
+## Fijian (fj) ##
+* Czech (cs)
+* English (en)
+* Fiji Hindi (hif)
+* French (fr)
+* Polish (pl)
+* Portuguese (pt)
+* Turkish (tr)
 
-## Hawaiian ##
-* English
-* Italian
-* Japanese
-* Okinawan
-* Portuguese
-* Rapa Nui
-* Tahitian
+## Hawaiian (haw) ##
+* English (en)
+* Italian (it)
+* Japanese (ja)
+* Okinawan (ryu)
+* Portuguese (pt)
+* Rapa Nui (rap)
+* Tahitian (ty)
 
-## Māori ##
-* Arabic
-* Aymara
-* Bengali
-* English
-* Finnish
-* French
-* German
-* Hindi
-* Indonesian
-* Italian
-* Japanese
-* Korean
-* Kurdish
-* Lithuanian
-* Malagasy
-* Malay
-* Pashto
-* Persian
-* Polish
-* Portuguese
-* Quechua
-* Rapa Nui
-* Samoan
-* Spanish
-* Swedish
-* Turkish
-* Urdu
-* Vietnamese
-* Welsh
+## Māori (mi) ##
+* Arabic (ar)
+* Aymara (ay)
+* Bengali (bn)
+* English (en)
+* Finnish (fi)
+* French (fr)
+* German (de)
+* Hindi (hi)
+* Indonesian (id)
+* Italian (it)
+* Japanese (ja)
+* Korean (ko)
+* Kurdish (ku)
+* Lithuanian (lt)
+* Malagasy (mg)
+* Malay (ms)
+* Pashto (ps)
+* Persian (fa)
+* Polish (pl)
+* Portuguese (pt)
+* Quechua (qu)
+* Rapa Nui (rap)
+* Samoan (sm)
+* Spanish (es)
+* Swedish (sv)
+* Turkish (tr)
+* Urdu (ur)
+* Vietnamese (vi)
+* Welsh (cy)
 
-## Nauruan ##
-* English
-* Russian
-* Spanish
+## Nauruan (na) ##
+* English (en)
+* Russian (ru)
+* Spanish (es)
 
-## Rapa Nui ##
-* Hawaiian
+## Rapa Nui (rap) ##
+* Hawaiian (haw)
 
-## Tahitian ##
-* Hawaiian
-* Occitan
+## Tahitian (ty) ##
+* Hawaiian (haw)
+* Occitan (oc)
 
-## Tetum ##
-* English
-* Finnish
-* German
-* Polish
-* Portuguese
-* Russian
+## Tetum (tet) ##
+* English (en)
+* Finnish (fi)
+* German (de)
+* Polish (pl)
+* Portuguese (pt)
+* Russian (ru)
 
-## Tok Pisin ##
-* English
-* Esperanto
-* French
-* Hawaiian
-* Korean
-* Polish
+## Tok Pisin (tpi) ##
+* English (en)
+* Esperanto (eo)
+* French (fr)
+* Hawaiian (haw)
+* Korean (ko)
+* Polish (pl)
 
 ## Coming soon ##
 * English to Tahitian
