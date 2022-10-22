@@ -1,6 +1,7 @@
 Currently, the following dictionaries have been created:
 
 ## Fijian ##
+* Czech
 * English
 * French
 * Fiji Hindi
